@@ -1,0 +1,1 @@
+<doc/*.docdir>: plugin(doc/plugin.cmxs)
